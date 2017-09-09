@@ -1,0 +1,18 @@
+PODS:
+  - IQKeyboardManager (4.0.10)
+  - Shimmer (1.0.2)
+  - Toast (3.1.0)
+
+DEPENDENCIES:
+  - IQKeyboardManager (~> 4.0.10)
+  - Shimmer (~> 1.0.2)
+  - Toast (~> 3.0)
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: 593ee99b88381f4b9ccb22bd680f22606351bd41
+  Shimmer: c5374be1c2b0c9e292fb05b339a513cf291cac86
+  Toast: 14a93686d6c8bfe2727afd342414e35660a8a1f3
+
+PODFILE CHECKSUM: e3616e1a328994ed06b6c442e76be372ac3a42ee
+
+COCOAPODS: 1.2.1
